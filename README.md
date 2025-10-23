@@ -4,6 +4,20 @@ Hi, I'm Arjun, and I turn messy data into meaningful insights — kind of like a
 
 Welcome to my data playground! This repository is a collection of projects where I slice, dice, and visualize data to uncover insights, answer questions, and tell compelling stories. If Excel sheets and SQL queries had a party, this is where it would be hosted.
 
+My Technical Skills
+
+Business Intelligence: Power BI, Tableau
+
+Data Analysis: Python (Pandas, NumPy), SQL
+
+Data Visualization and Reporting
+
+Statistical Analysis
+
+Excel (Advanced)
+
+
+
 🧠 What You'll Find Here
 Each folder in this repository showcases a unique project focused on solving real-world problems using data. From exploratory data analysis (EDA) to dashboards and storytelling with visuals — it's all here.
 
