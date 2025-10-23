@@ -28,6 +28,8 @@ If you're a recruiter, data nerd, or just someone who appreciates a good chart �
 💼 [LinkedIn]: https://www.linkedin.com/in/arj7/
 📧 Email: skumararjun7@gmail.com
 ☕ Coffee chat? Always up for it.
+
+
 “In God we trust. All others must bring data.” – W. Edwards Deming
 
 Thanks for stopping by. Dive in — the data’s fine!
