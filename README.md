@@ -6,7 +6,7 @@ Welcome to my data playground! This repository is a collection of projects where
 
 My Technical Skills
 
-Business Intelligence: Power BI, Tableau
+Business Intelligence: Power BI
 
 Data Analysis: Python (Pandas, NumPy), SQL
 
